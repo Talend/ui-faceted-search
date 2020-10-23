@@ -73,7 +73,7 @@ export const badgeValid = {
 		operator: {},
 		operators: [],
 		type: 'slider',
-		icon:  {
+		icon: {
 			name: 'talend-pie-charts',
 			class: 'valid',
 		},
@@ -83,11 +83,7 @@ export const badgeValid = {
 	metadata: {
 		badgePerFacet: 'N',
 		entitiesPerBadge: '1',
-		operators: [
-			'equals',
-			'greaterThan',
-			'lessThan',
-		],
+		operators: ['equals', 'greaterThan', 'lessThan'],
 	},
 };
 
@@ -100,7 +96,7 @@ export const badgeEmpty = {
 		operator: {},
 		operators: [],
 		type: 'slider',
-		icon:  {
+		icon: {
 			name: 'talend-pie-charts',
 			class: 'empty',
 		},
@@ -109,11 +105,7 @@ export const badgeEmpty = {
 	metadata: {
 		badgePerFacet: 'N',
 		entitiesPerBadge: '1',
-		operators: [
-			'equals',
-			'greaterThan',
-			'lessThan',
-		],
+		operators: ['equals', 'greaterThan', 'lessThan'],
 	},
 };
 
@@ -126,7 +118,7 @@ export const badgeInvalid = {
 		operator: {},
 		operators: [],
 		type: 'slider',
-		icon:  {
+		icon: {
 			name: 'talend-pie-charts',
 			class: 'invalid',
 		},
@@ -136,11 +128,7 @@ export const badgeInvalid = {
 	metadata: {
 		badgePerFacet: 'N',
 		entitiesPerBadge: '1',
-		operators: [
-			'equals',
-			'greaterThan',
-			'lessThan',
-		],
+		operators: ['equals', 'greaterThan', 'lessThan'],
 	},
 };
 
