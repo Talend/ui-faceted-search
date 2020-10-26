@@ -91,6 +91,7 @@ const BasicSearch = ({
 					<BadgeOverlay
 						id={basicSearchId}
 						iconName="plus-circle"
+						dataFeature={USAGE_TRACKING_TAGS.BASIC_ADD}
 						label={t('OPEN_ADD_FACET_BUTTON', { defaultValue: 'Add filter' })}
 						t={t}
 						hideLabel
