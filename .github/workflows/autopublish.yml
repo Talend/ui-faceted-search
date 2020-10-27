@@ -2,7 +2,7 @@ name: Faceted Search Auto Publish
 
 on:
   push:
-    branches: [master, develop, main]
+    branches: [main]
 
 jobs:
   build_and_publish:
