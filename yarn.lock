@@ -1899,10 +1899,10 @@
   resolved "https://registry.yarnpkg.com/@talend/babel-plugin-import-from-index/-/babel-plugin-import-from-index-1.4.4.tgz#4b872553d213ad9d9c79977278c401baaa92e6ef"
   integrity sha512-NByIAbncrHYAoP8pprTeYY5vnHnIPElHeyCbHGfomtdugCj6dtDihbsQ8Ry/ZKMrOvMbqqWPVIMsouU7vzcnkQ==
 
-"@talend/bootstrap-theme@^5.25.0":
-  version "5.25.0"
-  resolved "https://registry.yarnpkg.com/@talend/bootstrap-theme/-/bootstrap-theme-5.25.0.tgz#d3e06c9d75fdb28390ff75d824282ddf94839835"
-  integrity sha512-qx09ZnwIEFzTK2BKiYuEZSn8FWsprVtogl0IAHU79aRj9Q1IiUHJ4E69aTv8VPvDtiBYKXTXOu+wwbzMPL4rJg==
+"@talend/bootstrap-theme@^5.27.1":
+  version "5.27.1"
+  resolved "https://registry.yarnpkg.com/@talend/bootstrap-theme/-/bootstrap-theme-5.27.1.tgz#49c1965d79ea3ac1fef3611bf3063d143a36f7c1"
+  integrity sha512-WfY2ARDzYJ6nDiFCaf000o87DQLPijf2M57GQUo4JbFtZcOT2jKCPKJ0+6KezBRQ5oqKYZQxV6H1MANeTsnW6Q==
   dependencies:
     bootstrap-sass "3.4.1"
 
@@ -1936,10 +1936,10 @@
   resolved "https://registry.yarnpkg.com/@talend/html-webpack-plugin/-/html-webpack-plugin-1.1.0.tgz#7665ca9140c81277ded25b8328fd3508f758b9ce"
   integrity sha512-iVXGta9LexjQWOOaLsgYpDZeBAUmR6Jjplujrw/FIpl2FyDXBduATQdqqPAz1lueU2Hj4wBNSWLEKIprDapPrg==
 
-"@talend/icons@^5.25.0":
-  version "5.25.0"
-  resolved "https://registry.yarnpkg.com/@talend/icons/-/icons-5.25.0.tgz#eba19c68ab03d08bd5c9cf479bc1d43f12f8d048"
-  integrity sha512-BbPQu0NK9bcZ/dVP2TDz560giuLGe8iOVvdSC9N6A809obsC5ric7+9EP7oehc1MPalqjllvAu/cBYO2Y9kIaw==
+"@talend/icons@^5.27.1":
+  version "5.27.1"
+  resolved "https://registry.yarnpkg.com/@talend/icons/-/icons-5.27.1.tgz#4cb861a32f96598663cb0745a15a709c73749601"
+  integrity sha512-cskRD2SieAPtpCa1EtM0la8F7xhJjPWNPEv8y9c5NfBOvLDnBkhMGYvlD9g8/pCPDmBgTVlkgwkAghklNreGHg==
 
 "@talend/locales-tui-faceted-search@0.9.0":
   version "0.9.0"
@@ -2001,10 +2001,10 @@
     redux-thunk "^2.2.0"
     uuid "^3.4.0"
 
-"@talend/react-components@^5.25.0":
-  version "5.25.0"
-  resolved "https://registry.yarnpkg.com/@talend/react-components/-/react-components-5.25.0.tgz#9f07e20145b4394165f0c88df7c2f168350c365a"
-  integrity sha512-2rBkJ0Tj7HaA9HAk5wFp8f1/o7hurI0/yBfQZ8qp1YFni/NXaoEjwEsO/bx74Zkzy/I728IvNCf3tu8iViMUGw==
+"@talend/react-components@^5.27.1":
+  version "5.27.1"
+  resolved "https://registry.yarnpkg.com/@talend/react-components/-/react-components-5.27.1.tgz#72ebcbc1a5eaf92c304077b615fe38c1c1757397"
+  integrity sha512-aIqattXcqh21ER6SuJwGUeXMiTv8AOI3Il6IrZAcSQtWw0EYe9jHCfRfH5lhm4w6GOBJ5drwyMRKxb4XenSpJA==
   dependencies:
     ally.js "^1.4.1"
     classnames "^2.2.5"
