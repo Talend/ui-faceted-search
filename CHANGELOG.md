@@ -26,6 +26,10 @@ Types of changes
 
 ## [unreleased]
 
+### Fixed
+
+-
+
 ## [1.0.0]
 
 ### Breaking Change
