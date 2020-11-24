@@ -26,6 +26,10 @@ Types of changes
 
 ## [unreleased]
 
+### Changed
+
+-   [Add input text for the quick faceted search](https://github.com/Talend/ui-faceted-search/pull/12)
+
 ## [1.0.1]
 
 ### Fixed
