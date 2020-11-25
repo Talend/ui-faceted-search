@@ -30,6 +30,12 @@ Types of changes
 
 -   [allow to hide badges in the list](https://github.com/Talend/ui-faceted-search/pull/11)
 
+## [1.0.2]
+
+### Fixed
+
+-   [Circular dependency on Tag Facet](https://github.com/Talend/ui-faceted-search/pull/13)
+
 ## [1.0.1]
 
 ### Fixed
