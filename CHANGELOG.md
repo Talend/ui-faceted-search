@@ -30,6 +30,10 @@ Types of changes
 
 -   [Add input text for the quick faceted search](https://github.com/Talend/ui-faceted-search/pull/12)
 
+### Added
+
+-   [allow to hide badges in the list](https://github.com/Talend/ui-faceted-search/pull/11)
+
 ## [1.0.2]
 
 ### Fixed

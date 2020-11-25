@@ -10,9 +10,28 @@ export const badgeName = {
 	},
 	metadata: {
 		isAvailableForQuickSearch: true,
+		isAvailableForFacetList: true,
 		badgePerFacet: 'N',
 		entitiesPerBadge: '1',
 		operators: ['containsIgnoreCase', 'equals', 'notEquals', 'match a regexp'],
+	},
+};
+
+export const badgeAll = {
+	properties: {
+		attribute: 'all',
+		initialOperatorOpened: true,
+		initialValueOpened: false,
+		label: 'All',
+		operator: {},
+		operators: [],
+		type: 'text',
+	},
+	metadata: {
+		isAvailableForFacetList: false,
+		badgePerFacet: '1',
+		entitiesPerBadge: '1',
+		operators: ['containsIgnoreCase'],
 	},
 };
 
