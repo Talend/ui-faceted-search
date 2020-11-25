@@ -42,6 +42,10 @@ export const QuickSearchInput = ({ t, facets, className, onSelect = () => {} }) 
 	const [opened, setOpened] = useState(false);
 	const [value, setValue] = useState('');
 
+	if (!facets.length) {
+		return null;
+	}
+
 	return (
 		<Typeahead
 			placeholder={t('QUICKSEARCH_PLACEHOLDER', { defaultValue: 'Find in a column...' })}
