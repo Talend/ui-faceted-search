@@ -23,8 +23,10 @@ $circle-size-small: 1.8rem !default;
 			padding: 0;
 			text-decoration: none;
 			text-transform: none;
+			> span {
+				padding: 0 $padding-smaller;
+			}
 			> svg {
-				margin: 0;
 			}
 		}
 	}
