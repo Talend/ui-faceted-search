@@ -13,8 +13,7 @@
     "test:cov": "cross-env TZ=Europe/Paris talend-scripts test --coverage",
     "test:demo": "build-storybook",
     "lint:es": "talend-scripts lint:es",
-    "lint:style": "sass-lint -v -q",
-    "lint": "npm run lint:es && npm run lint:style",
+    "lint": "npm run lint:es",
     "start": "start-storybook -p 6006",
     "extract-i18n": "i18next-scanner --config i18next-scanner.config.js"
   },
@@ -66,7 +65,6 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-i18next": "^10.11.4",
-    "sass-lint": "^1.13.1",
     "storybook-addon-i18next": "^1.2.1"
   },
   "peerDependencies": {
