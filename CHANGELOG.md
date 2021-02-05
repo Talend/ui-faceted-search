@@ -26,6 +26,8 @@ Types of changes
 
 ## [unreleased]
 
+## [3.3.0]
+
 ### Added
 
 - Ability to customize Badge Checkboxes Form placeholder
