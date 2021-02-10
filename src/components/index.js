@@ -5,4 +5,14 @@ import { BasicSearch } from './BasicSearch';
 import { BadgeCheckboxes } from './Badges';
 import * as badgeDefinitionTypes from './types/badgeDefinition.type';
 
-export { FacetedSearchIcon, AdvancedSearch, BasicSearch, FacetedSearch, badgeDefinitionTypes, BadgeCheckboxes };
+export {
+	FacetedSearchIcon,
+	AdvancedSearch,
+	BasicSearch,
+	FacetedSearch,
+	badgeDefinitionTypes,
+	BadgeText,
+	BadgeSlider,
+	BadgeOverlay,
+	BadgeCheckboxes,
+};

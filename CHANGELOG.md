@@ -26,9 +26,12 @@ Types of changes
 
 ## [unreleased]
 
+
+## [3.3.1]
+
 ### Fixed
 
-- Expose BadgeCheckboxes
+- Expose all badges components
 
 ## [3.3.0]
 

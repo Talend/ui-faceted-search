@@ -4,6 +4,9 @@ import {
 	AdvancedSearch,
 	BasicSearch,
 	badgeDefinitionTypes,
+	BadgeText,
+	BadgeSlider,
+	BadgeOverlay,
 	BadgeCheckboxes,
 } from './components';
 import * as constants from './constants';
@@ -15,6 +18,9 @@ const components = {
 	Faceted,
 	AdvancedSearch,
 	BasicSearch,
+	BadgeText,
+	BadgeSlider,
+	BadgeOverlay,
 	BadgeCheckboxes,
 };
 
