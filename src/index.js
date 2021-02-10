@@ -4,6 +4,7 @@ import {
 	AdvancedSearch,
 	BasicSearch,
 	badgeDefinitionTypes,
+	BadgeCheckboxes,
 } from './components';
 import * as constants from './constants';
 import dictionaryHelpers from './dictionary/helpers.dictionary';
@@ -14,6 +15,7 @@ const components = {
 	Faceted,
 	AdvancedSearch,
 	BasicSearch,
+	BadgeCheckboxes,
 };
 
 const helpers = {
