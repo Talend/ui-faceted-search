@@ -101,7 +101,7 @@ describe('BasicSearch', () => {
 		// Given
 		const props = {
 			badgesDefinitions,
-			initialBadgesFaceted: [{
+			initialBadges: [{
 				attribute: 'name',
 				operator: '=',
 				value: 'hello'

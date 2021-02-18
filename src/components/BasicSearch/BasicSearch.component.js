@@ -36,7 +36,7 @@ const isInCreation = badge => get(badge, 'metadata.isInCreation', true);
 const BasicSearch = ({
 	badgesDefinitions = [],
 	badgesFaceted,
-	initialBadgesFaceted = [],
+	initialBadges = [],
 	customBadgesDictionary,
 	customOperatorsDictionary,
 	initialFilterValue,
@@ -71,7 +71,7 @@ const BasicSearch = ({
 	}, [state.badges, onSubmit]);
 
 	useEffect(() => {
-		initialBadgesFaceted.forEach(initial => {
+		initialBadges.forEach(initial => {
 			const facet = badges.find(
 				({ properties }) => properties.attribute === initial.attribute,
 			);
@@ -183,7 +183,13 @@ BasicSearch.propTypes = {
 	badgesFaceted: PropTypes.shape({
 		badges: badgesFacetedPropTypes,
 	}),
-	initialBadgesFaceted: badgesFacetedPropTypes,
+	initialBadges: PropTypes.arrayOf(
+		PropTypes.shape({
+			attribute: PropTypes.string,
+			value: PropTypes.any,
+			operator: PropTypes.string,
+		}),
+	),
 	customBadgesDictionary: PropTypes.object,
 	customOperatorsDictionary: operatorsPropTypes,
 	initialFilterValue: PropTypes.string,
