@@ -2073,15 +2073,15 @@
   resolved "https://registry.yarnpkg.com/@talend/icons/-/icons-6.17.0.tgz#9b5a654d69036be8bd6e6e234b214c902c982f3c"
   integrity sha512-iuzaKAzjHtR/O+zl4X6IpyruLx1RvrWMb/JQxSUm10DFmIQVgOa+cH71rYeWeex7o4aqMFzeIG+xVtwEZBV2Lg==
 
-"@talend/locales-tui-faceted-search@0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@talend/locales-tui-faceted-search/-/locales-tui-faceted-search-0.9.0.tgz#0597839f393a4910eb79313796bc2e4bcd22c9fe"
-  integrity sha512-QG0lxZZ8RYTXiYwquuCmm1tXzR8fhcj/SmooHUIh/e9ikdkm0ASUEET8n9LhLKatEi0d6RKr8ZSHMiUGEUtk1Q==
+"@talend/locales-tui-faceted-search@^3.4.1":
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/@talend/locales-tui-faceted-search/-/locales-tui-faceted-search-3.4.1.tgz#5eb7c188bc3a7b33b41aa23690a354776bfeb99a"
+  integrity sha512-5iC33M2Lmk2aYui/t+PCj3webMMy+2ofqAR3l+sFsrR49qsvQo+R4ANrkzxKupaDccRrlZcLN8COt7zDhLqXIg==
 
-"@talend/locales-tui@^5.29.0":
-  version "5.29.0"
-  resolved "https://registry.yarnpkg.com/@talend/locales-tui/-/locales-tui-5.29.0.tgz#fa398c6c4381d8e56f526fead6cd7898776e5d49"
-  integrity sha512-N/1cwMMNsT0PFWDlbwiDFsjxuSiLT4NMSbvTFLN00LUv7l5BiVXZtq5Xiig+G9swa6dy4QzeHJ2rQ1ZNoKNW5A==
+"@talend/locales-tui@^6.17.0":
+  version "6.17.0"
+  resolved "https://registry.yarnpkg.com/@talend/locales-tui/-/locales-tui-6.17.0.tgz#4b83129543391d3c1751dbada49f7b4686b7466a"
+  integrity sha512-mBerP+9PnapfAsug5PMIFN57qVHeaebtEx3Mi7/dpObhweVx+S9beYWRdHOxd/WUTA941+qczzy0KzShOtrDcg==
 
 "@talend/module-to-cdn@^9.6.2":
   version "9.6.2"
