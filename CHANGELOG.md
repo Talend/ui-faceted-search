@@ -30,6 +30,12 @@ Types of changes
 
 -   Fix translation key
 
+## [3.4.1]
+
+### Security
+
+- Upgrade dependencies
+
 ## [3.4.0]
 
 ### Added
