@@ -1,4 +1,8 @@
-# ui-faceted-search# Faceted search
+!!! Warning !!!
+
+THIS PACKAGE HAS BEEN MOVED IN https://github.com/Talend/ui
+
+# ui-faceted-search Faceted search
 
 ## Installation
 
